@@ -1,0 +1,47 @@
+# Ignore all folders and their contents
+*/
+
+# But include script files
+!*.py
+!*.js
+!*.html
+!*.css
+!requirements.txt
+!README.md
+!LICENSE
+
+# Explicitly ignore these directories and their contents
+/models/
+/uploads/
+/audio_outputs/
+/venv/
+/__pycache__/
+/.pytest_cache/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore generated artifacts
+*.mp3
+*.wav

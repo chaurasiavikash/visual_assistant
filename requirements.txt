@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+pillow>=9.0.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+langchain>=0.0.267
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+pyttsx3>=2.90
+python-jose>=3.3.0
+aiofiles>=23.1.0
+numpy>=1.24.0
