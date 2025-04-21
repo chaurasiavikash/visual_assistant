@@ -21,7 +21,7 @@ A locally-hosted AI assistant designed to help blind and low vision users by des
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/visual-assistant.git
+git clone https://github.com/chaurasiavikash/visual_assistant.git
 cd visual-assistant
 ```
 
